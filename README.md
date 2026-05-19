@@ -22,7 +22,7 @@ Sample Superstore sales data with 10,194 rows covering Orders, Sales, Profit, Re
 3. Interactive dashboard built in Power BI
 
 ## Files
-- samplesuperstore.csv        — original raw dataset
+- samplesuperstore.csv        — original raw dataset - [source]( https://www.kaggle.com/datasets/himanshuuike/superstore-sales-dataset)
 - super_store_sales.csv      — cleaned dataset
 - Superstore_sales_dashboard.ipynb  — data cleaning notebook (Colab)
 - superstore_dashboard.pbix   — Power BI dashboard
